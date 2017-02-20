@@ -1,0 +1,11 @@
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\bin\Debug\Sitemap.Xml.dll
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\bin\Debug\Sitemap.Xml.pdb
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\bin\Debug\Sitecore.ContentSearch.dll
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\obj\Debug\Sitemap.Xml.dll
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\obj\Debug\Sitemap.Xml.pdb
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\bin\Debug\Sitemap.Xml.dll
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\bin\Debug\Sitemap.Xml.pdb
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\bin\Debug\Sitecore.ContentSearch.dll
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\obj\Debug\AllerganJuvederm.SitemapXml.csprojResolveAssemblyReference.cache
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\obj\Debug\Sitemap.Xml.dll
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\obj\Debug\Sitemap.Xml.pdb

@@ -1,0 +1,6 @@
+C:\Data\Sitemap8\Sitemap.Xml\bin\Release\Sitemap.Xml.dll
+C:\Data\Sitemap8\Sitemap.Xml\bin\Release\Sitemap.Xml.pdb
+C:\Data\Sitemap8\Sitemap.Xml\bin\Release\Sitecore.ContentSearch.dll
+C:\Data\Sitemap8\Sitemap.Xml\obj\Release\Sitemap.Xml.dll
+C:\Data\Sitemap8\Sitemap.Xml\obj\Release\Sitemap.Xml.pdb
+C:\Data\Sitemap8\Sitemap.Xml\obj\Release\Sitemap.Xml.csprojResolveAssemblyReference.cache

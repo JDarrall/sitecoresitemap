@@ -1,0 +1,35 @@
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\bin\Debug\Sitemap.Xml.dll
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\bin\Debug\Sitemap.Xml.pdb
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\bin\Debug\Sitecore.ContentSearch.dll
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\obj\Debug\Sitemap.Xml.csprojResolveAssemblyReference.cache
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\obj\Debug\Sitemap.Xml.dll
+C:\Users\jsahota\Desktop\gtryf-Sitecore.Sitemap.Xml-66847bc\Sitemap.Xml\obj\Debug\Sitemap.Xml.pdb
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\bin\Debug\Sitemap.Xml.dll
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\bin\Debug\Sitemap.Xml.pdb
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\bin\Debug\Sitecore.ContentSearch.dll
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\obj\Debug\Sitemap.Xml.csprojResolveAssemblyReference.cache
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\obj\Debug\Sitemap.Xml.dll
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\AllerganJuvederm.SitemapXml\obj\Debug\Sitemap.Xml.pdb
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\Sitemap.Xml\bin\Debug\Sitemap.Xml.dll
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\Sitemap.Xml\bin\Debug\Sitemap.Xml.pdb
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\Sitemap.Xml\bin\Debug\Sitecore.ContentSearch.dll
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\Sitemap.Xml\obj\Debug\Sitemap.Xml.dll
+C:\Development\Allergan Juvederm\Trunk\AllerganJuvederm\Sitemap.Xml\obj\Debug\Sitemap.Xml.pdb
+C:\Users\jsahota\Documents\Visual Studio 2013\Projects\Sitemap.Xml\bin\Debug\Sitemap.Xml.dll
+C:\Users\jsahota\Documents\Visual Studio 2013\Projects\Sitemap.Xml\bin\Debug\Sitemap.Xml.pdb
+C:\Users\jsahota\Documents\Visual Studio 2013\Projects\Sitemap.Xml\bin\Debug\Sitecore.ContentSearch.dll
+C:\Users\jsahota\Documents\Visual Studio 2013\Projects\Sitemap.Xml\obj\Debug\Sitemap.Xml.dll
+C:\Users\jsahota\Documents\Visual Studio 2013\Projects\Sitemap.Xml\obj\Debug\Sitemap.Xml.pdb
+C:\Users\jsahota\Documents\Visual Studio 2013\Projects\Sitemap.Xml\obj\Debug\Sitemap.Xml.csprojResolveAssemblyReference.cache
+C:\Data\Sitemap8\Sitemap.Xml\bin\Debug\Sitemap.Xml.dll
+C:\Data\Sitemap8\Sitemap.Xml\bin\Debug\Sitemap.Xml.pdb
+C:\Data\Sitemap8\Sitemap.Xml\bin\Debug\Sitecore.ContentSearch.dll
+C:\Data\Sitemap8\Sitemap.Xml\obj\Debug\Sitemap.Xml.csprojResolveAssemblyReference.cache
+C:\Data\Sitemap8\Sitemap.Xml\obj\Debug\Sitemap.Xml.dll
+C:\Data\Sitemap8\Sitemap.Xml\obj\Debug\Sitemap.Xml.pdb
+C:\Development\Sitemap.Xml\bin\Debug\Sitemap.Xml.dll
+C:\Development\Sitemap.Xml\bin\Debug\Sitemap.Xml.pdb
+C:\Development\Sitemap.Xml\bin\Debug\Sitecore.ContentSearch.dll
+C:\Development\Sitemap.Xml\obj\Debug\Sitemap.Xml.csprojResolveAssemblyReference.cache
+C:\Development\Sitemap.Xml\obj\Debug\Sitemap.Xml.dll
+C:\Development\Sitemap.Xml\obj\Debug\Sitemap.Xml.pdb
