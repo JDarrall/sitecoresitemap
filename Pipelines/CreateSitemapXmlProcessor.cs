@@ -46,8 +46,8 @@ namespace Sitemap.Xml.Pipelines
                         var indexName = XmlUtil.GetAttribute("IndexName", node);
                         def.IndexName = !string.IsNullOrEmpty(indexName) ? indexName : "sitecore_web_index";
 
-                        var fieldName = XmlUtil.GetAttribute("FieldName", node);
-                        def.FieldName = !string.IsNullOrEmpty(fieldName) ? fieldName : "Display in Sitemap";
+                        var fieldName = XmlUtil.GetAttribute("DisplayInSitemapFieldName", node);
+                        def.DisplayInSitemapFieldName = !string.IsNullOrEmpty(fieldName) ? fieldName : "Display in Sitemap";
 
                         var templateNode = node.SelectSingleNode("Templates");
                         if (templateNode != null)
